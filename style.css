@@ -1,0 +1,26 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+h1{
+    text-align: center;
+}
+
+.card{
+    
+    display: inline-block;
+    background-color: #E0E0E0;
+    width: 350px;
+    height: 350px;
+    border: #E0E0E0;
+    margin: 30px;
+    text-align: center;
+    border: 2px solid #000;
+}
+
+img{
+    height: 200px;
+    width: 200px;
+}
