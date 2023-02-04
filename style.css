@@ -9,7 +9,7 @@ h1{
 }
 
 .card{
-    
+    overflow: hidden;
     display: inline-block;
     background-color: #E0E0E0;
     width: 350px;
