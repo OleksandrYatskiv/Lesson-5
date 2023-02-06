@@ -1,14 +1,14 @@
-*{
+* {
     box-sizing: border-box;
     margin: 0;
     padding: 0;
 }
 
-h1{
+h1 {
     text-align: center;
 }
 
-.card{
+.card {
     overflow: hidden;
     display: inline-block;
     background-color: #E0E0E0;
@@ -20,7 +20,11 @@ h1{
     border: 2px solid #000;
 }
 
-img{
+img {
     height: 200px;
     width: 200px;
+}
+
+.wrapper {
+    text-align: center;
 }
